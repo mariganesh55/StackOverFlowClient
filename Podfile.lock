@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - DatePickerDialog (3.0)
+  - ObjectMapper (3.5.1)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - SDWebImage (5.3.1):
+    - SDWebImage/Core (= 5.3.1)
+  - SDWebImage/Core (5.3.1)
+  - SwiftMoment (0.7)
+  - TagListView (1.4.0)
+  - Toast-Swift (5.0.0)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - AlamofireObjectMapper (~> 5.2.0)
+  - DatePickerDialog
+  - Reusable
+  - SDWebImage
+  - SwiftMoment
+  - TagListView
+  - Toast-Swift
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - DatePickerDialog
+    - ObjectMapper
+    - Reusable
+    - SDWebImage
+    - SwiftMoment
+    - TagListView
+    - Toast-Swift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  DatePickerDialog: 03dbb8350bfa80302ab2a8c83cee1fec70184444
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  SDWebImage: 7137d57385fb632129838c1e6ab9528a22c666cc
+  SwiftMoment: dc6dd27012e267819104cbb03f74ff9192dd0b42
+  TagListView: 987b0bdbb16cd9d9e7c0e2ec32aff37ecba8b173
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 7c62d7e5214b33bd8d38ea8828833179736f2144
+
+COCOAPODS: 1.8.1
